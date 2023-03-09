@@ -4,3 +4,4 @@ This is the repository for the first assignment of CPSC 440 - Computer Architect
 
 In this assignment, we apply MIPS language and programming techniques to solve problems in various areas of the MIPS architecture, such as registers, memories, and stack, instruction formats, addressing modes, logic and arithmetic operations, procedure calls, code optimization, and implementing Assembly pseudo-instruction.
 
+https://docs.google.com/document/d/1VHR9Ag6j3lIESZA8zhlobh5153abx_ogDF5cigJVMtg/edit?usp=sharing
